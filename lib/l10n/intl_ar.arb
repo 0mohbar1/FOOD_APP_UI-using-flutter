@@ -1,0 +1,13 @@
+{
+  "welcome_message": "أهلاً بك في تطبيق الطعام!",
+  "order_now": "اطلب الآن",
+  "get_up_to_discount": "احصل على خصم يصل إلى %60",
+  "recommended_items": "الموصى به",
+  "view_all": "عرض الكل",
+  "menu": {
+    "appetizers": "المقبلات",
+    "main_courses": "الأطباق الرئيسية",
+    "desserts": "الحلويات",
+    "drinks": "المشروبات"
+  }
+}

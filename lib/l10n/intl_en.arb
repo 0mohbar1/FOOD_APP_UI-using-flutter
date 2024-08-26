@@ -1,0 +1,13 @@
+{
+  "welcome_message": "Welcome to the food delivery app!",
+  "order_now": "Order Now",
+  "get_up_to_discount": "Get Up To %60 Off",
+  "recommended_items": "Recommended",
+  "view_all": "View All",
+  "menu": {
+    "appetizers": "Appetizers",
+    "main_courses": "Main Courses",
+    "desserts": "Desserts",
+    "drinks": "Drinks"
+  }
+}
